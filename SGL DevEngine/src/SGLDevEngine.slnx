@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="SGLDevEngine.AIBuilder/SGLDevEngine.AIBuilder.csproj" />
+  <Project Path="SGLDevEngine.BlueprintRuntime/SGLDevEngine.BlueprintRuntime.csproj" />
+  <Project Path="SGLDevEngine.CodeGeneration/SGLDevEngine.CodeGeneration.csproj" />
+  <Project Path="SGLDevEngine.Core/SGLDevEngine.Core.csproj" />
+  <Project Path="SGLDevEngine.GraphEngine/SGLDevEngine.GraphEngine.csproj" />
+  <Project Path="SGLDevEngine.Studio/SGLDevEngine.Studio.csproj" />
+  <Project Path="SGLDevEngine.TypeSystem/SGLDevEngine.TypeSystem.csproj" />
+</Solution>

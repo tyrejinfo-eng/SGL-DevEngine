@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\SGLDevEngine.GraphEngine\SGLDevEngine.GraphEngine.csproj" />
+    <ProjectReference Include="..\SGLDevEngine.TypeSystem\SGLDevEngine.TypeSystem.csproj" />
+    <ProjectReference Include="..\SGLDevEngine.Core\SGLDevEngine.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SQLite" Version="1.0.118.0" />
+    <PackageReference Include="Npgsql" Version="9.0.0" />
+    <PackageReference Include="MySqlConnector" Version="2.3.0" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+</Project>

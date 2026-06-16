@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\SGLDevEngine.Core\SGLDevEngine.Core.csproj" />
+    <ProjectReference Include="..\SGLDevEngine.GraphEngine\SGLDevEngine.GraphEngine.csproj" />
+    <ProjectReference Include="..\SGLDevEngine.CodeGeneration\SGLDevEngine.CodeGeneration.csproj" />
+    <ProjectReference Include="..\SGLDevEngine.AIBuilder\SGLDevEngine.AIBuilder.csproj" />
+    <ProjectReference Include="..\SGLDevEngine.TypeSystem\SGLDevEngine.TypeSystem.csproj" />
+    <ProjectReference Include="..\SGLDevEngine.BlueprintRuntime\SGLDevEngine.BlueprintRuntime.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+</Project>
