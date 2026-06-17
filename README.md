@@ -71,3 +71,17 @@ By extracting the layout mechanics of node-based programming and merging it with
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🤝 How to Contribute
+
+This is a fully open-source project, and community contributions are highly welcome! Whether you want to fix a bug, optimize the node rendering pipeline, or add new database node features, here is how you can help:
+
+1. **Fork the Repository**: Create your own copy of the project to work on.
+2. **Create a Feature Branch**: Keep your changes organized (e.g., `git checkout -b feature/NewDatabaseNode`).
+3. **Commit Your Changes**: Write clear commit messages explaining what you fixed or added.
+4. **Open a Pull Request**: Submit your changes back to the main repository for review.
+
+### 💡 Areas Needing Contributions:
+* **Custom Nodes**: Building new default logic nodes for everyday coding math or text operations.
+* **UI/UX Refinements**: Optimizing zoom, pan, and visual wire connections on large graphs.
+* **Testing & Bug Hunts**: Running the compiled `.exe` on different Windows environments and reporting setup crashes.
