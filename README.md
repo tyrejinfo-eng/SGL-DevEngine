@@ -1,8 +1,10 @@
 # SGL-DevEngine
 
-[![Runtime](https://shields.io)](https://microsoft.com)
+
 [![Platform](https://shields.io)](https://microsoft.com)
-[![Version](https://shields.io)](https://github.com)
+[![Version]<img width="1329" height="806" alt="Screenshot 2026-06-20 230205" src="https://github.com/user-attachments/assets/38514f48-8fae-4106-aa42-e936c225286f" />
+
+
 [![License: MIT](https://shields.io)](https://opensource.org)
 
 SGL-DevEngine is a powerful, standalone **Visual Programming Studio and Node-Based Code Editor** built entirely in C# on .NET 8.0. Fully decoupled from heavy third-party game engines, it provides a lightweight, ultra-fast environment to design, compile, and execute complex logic architectures visually—with native, enterprise-grade database drivers integrated right out of the box.
@@ -85,3 +87,4 @@ This is a fully open-source project, and community contributions are highly welc
 * **Custom Nodes**: Building new default logic nodes for everyday coding math or text operations.
 * **UI/UX Refinements**: Optimizing zoom, pan, and visual wire connections on large graphs.
 * **Testing & Bug Hunts**: Running the compiled `.exe` on different Windows environments and reporting setup crashes.
+<img width="1724" height="954" alt="s1" src="https://github.com/user-attachments/assets/b49e0940-2f9b-4277-bbc9-02addfd78830" />
